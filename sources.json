@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Course-to-Routine Builder",
+    "tag": "new ✨",
+    "photo": "images/brax-v3.png",
+    "desc": "Compare between sections of courses in real-time with your current selection.",
+    "url": "/course-routine/v3.1/"
+  },
+  {
+    "title": "RS Routine Viewer",
+    "tag": "",
+    "photo": "images/rs69.png",
+    "desc": "Enter your section number and easily access all your class schedules and meal timings! (🚧RS70 version coming soon🚧)",
+    "url": "/rs-routine/",
+    "mobile": true
+  },
+  {
+    "title": "CGPA Calculator",
+    "tag": "trending 🔥",
+    "photo": "images/cgpa-calc.png",
+    "desc": "Upload your Connect gradesheet PDF and recalculate previous semester results or predict future CGPA based on your estimations of upcoming courses. Watch the GPAs auto-update in real-time!",
+    "url": "/cgpa-calculator/",
+    "mobile": true
+  },
+  {
+    "title": "Academic/ APA-7 Document Editor",
+    "tag": "new ✨",
+    "photo": "images/acado.png",
+    "desc": "Easily create documents for your assignments in APA-7 format. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
+    "url": "/apa7-docs/",
+    "mobile": true
+  },
+  {
+    "title": "Online CV Builder",
+    "tag": "new ✨",
+    "photo": "images/mizucv.png",
+    "desc": "Create, update and export your CV from anywhere. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
+    "url": "/cv-builder/",
+    "mobile": true
+  },
+  {
+    "title": "Course Lookup Assistant (v2)",
+    "tag": "",
+    "photo": "images/brax-v2.png",
+    "desc": "Dynamic course selection and routine builder for BRAC University.",
+    "url": "/course-routine/v2/"
+  },
+  {
+    "title": "Course Lookup Assistant (v1)",
+    "tag": "unstable ⚠️",
+    "photo": "images/brax-v1.png",
+    "desc": "Real-time course section information explorer.",
+    "url": "/course-routine/v1/"
+  }
+]
+
+
+
+
