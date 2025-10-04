@@ -7,14 +7,6 @@
     "url": "/course-routine/v3.1/"
   },
   {
-    "title": "RS Routine Viewer",
-    "tag": "",
-    "photo": "images/rs69.png",
-    "desc": "Enter your section number and easily access all your class schedules and meal timings! (🚧RS70 version coming soon🚧)",
-    "url": "/rs-routine/",
-    "mobile": true
-  },
-  {
     "title": "CGPA Calculator",
     "tag": "trending 🔥",
     "photo": "images/cgpa-calc.png",
