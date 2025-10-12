@@ -1,22 +1,29 @@
 [
   {
     "title": "Course-to-Routine Builder",
-    "tag": "new ✨",
+    "tag": "trending 🔥",
     "photo": "images/brax-v3.png",
     "desc": "Compare between sections of courses in real-time with your current selection.",
     "url": "/course-routine/v3.1/"
   },
   {
     "title": "CGPA Calculator",
-    "tag": "trending 🔥",
+    "tag": "",
     "photo": "images/cgpa-calc.png",
     "desc": "Upload your Connect gradesheet PDF and recalculate previous semester results or predict future CGPA based on your estimations of upcoming courses. Watch the GPAs auto-update in real-time!",
     "url": "/cgpa-calculator/",
     "mobile": true
   },
+{
+    "title": "Class Vader",
+    "tag": "new ✨",
+    "photo": "images/classvader.png",
+    "desc": "Find classrooms and labs that are currently being used or unused.",
+    "url": "/classvader/"
+  },
   {
     "title": "Academic/ APA-7 Document Editor",
-    "tag": "new ✨",
+    "tag": "",
     "photo": "images/acado.png",
     "desc": "Easily create documents for your assignments in APA-7 format. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
     "url": "/apa7-docs/",
@@ -24,7 +31,7 @@
   },
   {
     "title": "Online CV Builder",
-    "tag": "new ✨",
+    "tag": "",
     "photo": "images/mizucv.png",
     "desc": "Create, update and export your CV from anywhere. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
     "url": "/cv-builder/",
