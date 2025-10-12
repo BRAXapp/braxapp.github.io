@@ -19,7 +19,8 @@
     "tag": "new ✨",
     "photo": "images/classvader.png",
     "desc": "Find classrooms and labs that are currently being used or unused.",
-    "url": "/classvader/"
+    "url": "/classvader/",
+    "mobile": true
   },
   {
     "title": "Academic/ APA-7 Document Editor",
