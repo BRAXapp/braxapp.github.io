@@ -4,14 +4,14 @@
     "tag": "trending 🔥",
     "photo": "images/brax-v3.png",
     "desc": "Compare between sections of courses in real-time with your current selection.",
-    "url": "/course-routine/v3.1/"
+    "url": "https://braxapp.github.io/course-routine/v3.1/"
   },
   {
     "title": "CGPA Calculator",
     "tag": "",
     "photo": "images/cgpa-calc.png",
     "desc": "Upload your Connect gradesheet PDF and recalculate previous semester results or predict future CGPA based on your estimations of upcoming courses. Watch the GPAs auto-update in real-time!",
-    "url": "/cgpa-calculator/",
+    "url": "https://braxapp.github.io/cgpa-calculator/",
     "mobile": true
   },
 {
@@ -19,7 +19,7 @@
     "tag": "unstable ⚠️",
     "photo": "images/classvader.png",
     "desc": "Find classrooms and labs that are currently being used or unused.",
-    "url": "/classvader/",
+    "url": "https://braxapp.github.io/classvader/",
     "mobile": true
   },
   {
@@ -27,7 +27,7 @@
     "tag": "",
     "photo": "images/acado.png",
     "desc": "Easily create documents for your assignments in APA-7 format. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
-    "url": "/apa7-docs/",
+    "url": "https://braxapp.github.io/apa7-docs/",
     "mobile": true
   },
   {
@@ -35,7 +35,7 @@
     "tag": "",
     "photo": "images/mizucv.png",
     "desc": "Create, update and export your CV from anywhere. Includes data persistence on your device (so everything stays there, until you delete/edit it yourself.)",
-    "url": "/cv-builder/",
+    "url": "https://braxapp.github.io/cv-builder/",
     "mobile": true
   },
   {
@@ -43,14 +43,14 @@
     "tag": "",
     "photo": "images/brax-v2.png",
     "desc": "Dynamic course selection and routine builder for BRAC University.",
-    "url": "/course-routine/v2/"
+    "url": "https://braxapp.github.io/course-routine/v2/"
   },
   {
     "title": "Course Lookup Assistant (v1)",
     "tag": "unstable ⚠️",
     "photo": "images/brax-v1.png",
     "desc": "Real-time course section information explorer.",
-    "url": "/course-routine/v1/"
+    "url": "https://braxapp.github.io/course-routine/v1/"
   }
 ]
 
